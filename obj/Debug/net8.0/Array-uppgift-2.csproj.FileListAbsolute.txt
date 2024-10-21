@@ -12,3 +12,4 @@ C:\Github\Array-uppgift-2\obj\Debug\net8.0\refint\Array-uppgift-2.dll
 C:\Github\Array-uppgift-2\obj\Debug\net8.0\Array-uppgift-2.pdb
 C:\Github\Array-uppgift-2\obj\Debug\net8.0\Array-uppgift-2.genruntimeconfig.cache
 C:\Github\Array-uppgift-2\obj\Debug\net8.0\ref\Array-uppgift-2.dll
+C:\Github\Array-uppgift-2\obj\Debug\net8.0\Array-uppgift-2.sourcelink.json

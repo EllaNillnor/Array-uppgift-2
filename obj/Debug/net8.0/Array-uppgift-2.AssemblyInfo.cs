@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array-uppgift-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a3f4bc8678fe2da1fb03d558ab9ca79e289367e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93f84961e8b48a5570679803a232ac46abd7e1bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array-uppgift-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array-uppgift-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
